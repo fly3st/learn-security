@@ -27,6 +27,8 @@ I use this repository to store any notes, courses and links often related to off
 
 * Write either a port scanner, directory brute-forcer or a log parser (best if you can do all of 'em)
 
+## Penetration Testing Specific
+
 ### Infra Pentesting (methodology focused)
 
 **Core study**
@@ -104,5 +106,3 @@ I use this repository to store any notes, courses and links often related to off
 
 * OWASP MAS Crackmes L1-L3, Triage with jadax, Frida and basic dynamic analysis
 * Document one reversing path and one runtime-hooking bypass on a Crackme (screens + code snippets) w/ relevant MASTG section citation
-
-
