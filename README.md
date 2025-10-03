@@ -139,16 +139,16 @@ I use this repository to store any notes, courses and links often related to off
 
 **Core study**
 
-* [PortSwigger Academy - by far the best resource I've personally used](https://portswigger.net/web-security)
+* [PortSwigger Academy](https://portswigger.net/web-security)  - by far the best resource I've personally used
 * [OWASP Web Security Testing Guide](https://nest.owasp.org/projects/web-security-testing-guide)
 * [PayloadsAllTheThings repo](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 **Hands-on**
 
-* Complete PortSwigger Labs, they're great
+* Complete PortSwigger labs, they're great
 * Self host practice apps like OWASP Juice Shop or DVWA
 
-### App Pentesting
+### Mobile Application Pentesting
 
 **Core study**
 
@@ -160,4 +160,4 @@ I use this repository to store any notes, courses and links often related to off
 * OWASP MAS Crackmes L1-L3, Triage with jadax, Frida and basic dynamic analysis
 * Document one reversing path and one runtime-hooking bypass on a Crackme (screens + code snippets) w/ relevant MASTG section citation
 
-**Each folder in the repo contains my personal notes on each subject, feel free to browse them or even correct me, I'm always learning.**
+**Each folder in the repo contains my personal notes on each subject, feel free to browse them and even correct me on any inaccuracies, I'm always learning.**
