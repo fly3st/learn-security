@@ -92,7 +92,7 @@ I use this repository to store any notes, courses and links often related to off
 
 **Hands-on**
 
-* Go to [vulnhub)(https://www.vulnhub.com/) and find yourself a linux VM (or just build a vulnerable one yourself) and use GTFOBins entries to go from user to root
+* Go to [vulnhub](https://www.vulnhub.com/) and find yourself a linux VM (or just build a vulnerable one yourself) and use GTFOBins entries to go from user to root
 * Make sure to enum -> identify -> exploit at least two distinct privesc paths (SUID + GUID) and a cron one as well. Document the exact GTFOBins snippets
 
 ### Windows PrivEsc
