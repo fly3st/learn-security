@@ -1,1 +1,3 @@
-/linux/bandit
+linux/bandit/
+linux/bandit/*
+.obsidian
