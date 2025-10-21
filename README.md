@@ -8,7 +8,7 @@ This includes:
 * Scripts and automations
 
 I host this for my own personal convenience and it can be used to help solidify your own knowledge / notes.
-**Feel free to correct me on any of these, I'm always learning. **
+**Feel free to correct me on any of these, I'm always learning.**
 
 ### Disclaimer
 
